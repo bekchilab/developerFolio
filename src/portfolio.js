@@ -21,7 +21,7 @@ const illustration = {
 
 const greeting = {
   username: "Bekchilab",
-  title: "Bekchilab is a software development company",
+  title: "BEKCHILAB",
   subTitle: emoji(
     "WHO WE ARE? 🚀 We have been serving as Freelance for about 2 years. So far, we have cooperated with more than 20 companies in 5 different countries. Our main service areas: Data analysis, Data science, Machine Learning, Artificial Intelligence, Web development, App development."),
   displayGreeting: true // Set false to hide this section, defaults to true
