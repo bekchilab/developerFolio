@@ -120,7 +120,7 @@ https://fontawesome.com/icons?d=gallery */
 // Education Section
 
 const educationInfo = {
-  display: true, // Set false to hide this section, defaults to true
+  display: false, // Set false to hide this section, defaults to true
   schools: [
     {
       schoolName: "Harvard University",
@@ -207,21 +207,68 @@ const workExperiences = {
       company: "Boran Oktay dabak",
       companylogo: require("./assets/images/boran.png"),
       date: "June 2022 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "",
+      descBullets: [
+        "Achievements & Tasks :",
+        "Data Analysis",
+        "Data Scraping",
+        "Data Cleaning",
+        "Data Visualization",
+        "Create a Database",
+        "Classification and Cluster Algorithms",
+        "Prediction Algorithms",
+        "Metaheuristic Algorithms",
+        "Image Processing",
+        "Create a ML Model",
+        "Technologies I Use :",
+        "Python , SQL , C++",
+        "IBM SPSS ,RapidMiner",
+        "Pandas, Numpy, SciPy, Scikit-Learn",
+        "Tensorflow, Keras, OpenCV, Selenium" ,
+        "Requests , Beautiful Soup , Matplotlib",
+        "Seaborn, Matplotlib"
+      ]
     },
     {
       role: "Data Scientist",
       company: "Muhammet Miraç Yüzaklı",
       companylogo: require("./assets/images/mirac.png"),
       date: "June 2022 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "",
+      descBullets:[
+        "Data Analysis",
+        "Big Data Analytics",
+        "Data Scraping",
+        "Database Creation and Management",
+        "Creating an ML Algorithm",
+        "Statistical Analysis",
+        "Classification and clustering Algorithms",
+        "Creating  the Interface",
+        "Image Processing Techniques",
+        "Backend Developer ",
+      ]
     },
     {
       role: "Full-Stack Developer",
       company: "Kadir Yaren",
       companylogo: require("./assets/images/kadir.png"),
       date: "June 2022 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "",
+      descBullets:[
+        "Python Selenium, Requests",
+        "Beautiful Soup, Pandas",
+        "Numpy, Scikit-Learn",
+        "Matplotlib",
+        "Postman, Reverse Api Researching",
+        "Data Scraping",
+        "Multitasking, Docker Containerization",
+        "Bash Programming",
+        "Rest Api Development",
+        "Microservice and Monolitic Development",
+        "HTML CSS SCSS Vanilla JS",
+        "ReactJS, Laravel, Flask",
+        "Desing to Deploy Full Stack Development"
+      ]
     }
   ]
 };
