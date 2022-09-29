@@ -176,28 +176,51 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Şeyma Salih",
-      company: "",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "Data Scientist",
+      company: "Şeyma Salih",
+      companylogo: require("./assets/images/seyma.png"),
+      date: "June 2022 – Present",
+      desc: "Computer Engineer",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Achievements & Tasks :",
+        "Data Analysis",
+        "Data Scraping",
+        "Data Cleaning",
+        "Data Visualization",
+        "Create a Database",
+        "Classification and Cluster Algorithms",
+        "Prediction Algorithms",
+        "Metaheuristic Algorithms",
+        "Image Processing",
+        "Create a ML Model",
+        "Technologies I Use :",
+        "Python , SQL , C++",
+        "IBM SPSS ,RapidMiner",
+        "Pandas, Numpy, SciPy, Scikit-Learn",
+        "Tensorflow, Keras, OpenCV, Selenium" ,
+        "Requests , Beautiful Soup , Matplotlib",
+        "Seaborn, Matplotlib"
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
+      role: "Data Scientist",
+      company: "Boran Oktay dabak",
+      companylogo: require("./assets/images/boran.png"),
+      date: "June 2022 – Present",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
+      role: "Data Scientist",
+      company: "Muhammet Miraç Yüzaklı",
+      companylogo: require("./assets/images/mirac.png"),
+      date: "June 2022 – Present",
+      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      role: "Full-Stack Developer",
+      company: "Kadir Yaren",
+      companylogo: require("./assets/images/kadir.png"),
+      date: "June 2022 – Present",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
   ]
